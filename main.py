@@ -1,5 +1,3 @@
-#Made By Hasher Aka Hisoka
-
 import random;
 
 choices = ['rock', 'paper', 'scissors']
